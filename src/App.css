@@ -1,0 +1,27 @@
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.form{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.input1, .input2{
+    margin-right: 20px;
+    height: 20px;
+    width: 200px;
+}
+
+.input1::placeholder, .input2::placeholder{
+    text-align: center;
+}
+
+.paragrafo{
+
+    font-size: 30px;
+}
